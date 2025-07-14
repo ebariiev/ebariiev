@@ -1,4 +1,4 @@
-# Hi 👋 my name is Emir
+# Hi 👋 my name is _Emir_
 
 <!--
 **ebariiev/ebariiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
